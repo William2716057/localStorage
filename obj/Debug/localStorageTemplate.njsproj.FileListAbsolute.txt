@@ -1,0 +1,3 @@
+C:\Users\Wills\source\repos\localStorageTemplate\localStorageTemplate\obj\Debug\localStorageTemplate.njsproj.AssemblyReference.cache
+C:\Users\Wills\source\repos\localStorageTemplate\localStorageTemplate\obj\Debug\localStorageTemplate.njsproj.CoreCompileInputs.cache
+C:\Users\Wills\source\repos\localStorageTemplate\localStorageTemplate\bin\Microsoft.NodejsTools.WebRole.dll
